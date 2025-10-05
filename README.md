@@ -1,4 +1,7 @@
 # Experiment 1: Decentralized Certificate Verification
+### Name: HARITHA RAMESH
+### REG NO: 212223100011
+### DEPARTMENT: CSE(CYBER SECURITY)
 ## Aim:
 To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery
 and ensuring authenticity.
